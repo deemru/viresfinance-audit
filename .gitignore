@@ -1,0 +1,4 @@
+.vscode
+/test/composer.lock
+/test/vendor
+/test/_*
