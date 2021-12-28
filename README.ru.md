@@ -17,6 +17,10 @@
 - [Прочие рекомендации](viresfinance-security-audit.ru.md#прочие-рекомендации)
 - [Выводы](viresfinance-security-audit.ru.md#выводы)
 
+---
+
+- [Appendix 1](viresfinance-security-audit.en.appendix-1.md)
+
 # Вспомогательные скрипты
 - Скрипты расположены в папке [test](test) данного репозитория
 - Скрипты основаны на функциональности [WavesKit](https://github.com/deemru/WavesKit)

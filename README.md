@@ -17,6 +17,10 @@
 - [Other recommendations](viresfinance-security-audit.en.md#other-recommendations)
 - [Conclusion](viresfinance-security-audit.en.md#conclusion)
 
+---
+
+- [Appendix 1](viresfinance-security-audit.en.appendix-1.md)
+
 # Support scripts
 - The scripts consolidated at [test](test) folder of this repo
 - The scripts based on [WavesKit](https://github.com/deemru/WavesKit) functionality
